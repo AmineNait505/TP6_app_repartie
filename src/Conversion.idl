@@ -1,0 +1,5 @@
+module  corbaConversion {
+    interface IconversionRemote{
+    double convertirMontnant(in double mt);
+    };
+};
